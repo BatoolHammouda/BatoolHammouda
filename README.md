@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To My Creative Area 👋👩‍💻</h1>
 <h3 align="center">passionate Computer Engineering Student coding dreams into reality</h3>
 
-<img align="right" alt="coding" width="450" src="https://media0.giphy.com/media/HzPtbOKyBoBFsK4hyc/200w.gif?cid=6c09b952ikyiu4dqo7nhmb8i4fcni3wgr1cf2ms6hcvodybu&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/HzPtbOKyBoBFsK4hyc/200w.gif?cid=6c09b952ikyiu4dqo7nhmb8i4fcni3wgr1cf2ms6hcvodybu&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batoolhammouda&label=Profile%20views&color=0e75b6&style=flat" alt="batoolhammouda" /> </p>
 
